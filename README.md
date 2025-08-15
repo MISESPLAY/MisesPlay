@@ -50,4 +50,4 @@ LinkedIn: www.linkedin.com/in/jonathan-cantu0
 
 Correo: cantujonathan16.music@gmail.com
 
-<div align="center"> <img src="[https://i.gifer.com/WFrs.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fgallica-metaphor-refantazio-gif-2881479023335369137&psig=AOvVaw3uswYIiCAd7loylY8aSONb&ust=1755370049477000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNDUz5K9jY8DFQAAAAAdAAAAABAE)" alt="GIF animado" /> </div>
+<div align="center"> <img src="metaphor-atlus.gif" alt="GIF animado" /> </div>
