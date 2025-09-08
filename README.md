@@ -10,13 +10,9 @@ Lenguajes de Programación
 
 Python 
 
-PHP 
+PHP  
 
-Java 
-
-Frameworks y Librerías
-
-Django 
+Frameworks y Librerías 
 
 Tkinter 
 
