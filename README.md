@@ -16,9 +16,13 @@ Frameworks y Librerías
 
 Tkinter 
 
+Laravel
+
+Django 
+
 Bases de Datos
 
-MySQL / PHPMyAdmin 
+MySQL  
 
 Otras Herramientas
 
@@ -27,14 +31,6 @@ Power BI
 Git & GitHub 
 
 Photoshop
-
-📌 Proyectos Destacados
-
-Sistema de gestión de pedidos para cafetería escolar (con menú interactivo, carrito y métodos de pago simulados).
-
-Generador de tickets de soporte con asignación automática y seguimiento.
-
-Aplicación de registro de usuarios con almacenamiento en Excel.
 
 📫 Contacto
 
