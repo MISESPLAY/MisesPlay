@@ -1,36 +1,44 @@
-👋 Me presento 
-Mi nombre es Jonathan Cantu
-
 Bienvenido a mi perfil.
 Aquí comparto un avance de mis proyectos de desarrollo web, sistemas administrativos , programacion y mis apuntes sobre mi aprendizaje. 
-En mis repositorios encontrarás principalmente prototipos de aplicaciones.
+En mis repositorios encontrarás principalmente prototipos de aplicaciones ( toma su tiempo ) .
 
-🚀 Tecnologías y Herramientas
-Lenguajes de Programación
+Tecnologías y Herramientas
 
-Python 
+*Lenguajes de Programación
 
-PHP  
+-Python 
 
-Frameworks y Librerías 
+-PHP  
 
-Tkinter 
+-JavaScript
 
-Laravel
+*Frameworks y Librerías 
 
-Django 
+-Tkinter 
 
-Bases de Datos
+-Laravel
 
-MySQL  
+-Django 
+
+-React
+
+
+*Bases de Datos
+
+-MySQL  
+
+-MariaDB
+
 
 Otras Herramientas
 
-Power BI 
+-Power BI 
 
-Git & GitHub 
+-Git & GitHub 
 
-Photoshop
+-Photoshop
+
+-Figma
 
 📫 Contacto
 
