@@ -22,6 +22,8 @@ Tecnologías y Herramientas
 
 -React
 
+-JQuery
+
 
 *Bases de Datos
 
