@@ -42,6 +42,14 @@ Otras Herramientas
 
 -Figma
 
+-PostMan
+
+-Docker
+
+
+
+
+
 📫 Contacto
 
 Si requieres contactar conmigo de forma mas directa, puedes encontrarme en:
