@@ -1,63 +1,32 @@
-Bienvenido a mi perfil.
-Aquí comparto un avance de mis proyectos de desarrollo web, sistemas administrativos , programacion y mis apuntes sobre mi aprendizaje. 
-En mis repositorios encontrarás principalmente prototipos de aplicaciones ( toma su tiempo ) .
+# Hola, soy Jonathan 
 
-Tecnologías y Herramientas
+**Desarrollador Full-Stack | Backend & Sistemas Administrativos**
 
-*Lenguajes de Programación
+Bienvenido a mi perfil. Soy un desarrollador enfocado en la creación de sistemas web robustos, la optimización de procesos administrativos y el diseño de bases de datos eficientes. 
+Me apasiona resolver problemas de lógica de negocio y estructurar código limpio y escalable.
 
--Python 
-
--PHP  
-
--JavaScript
-
-*Frameworks y Librerías 
-
--Tkinter 
-
--Laravel
-
--Django 
-
--React
-
--JQuery
+Aquí comparto el código de mis proyectos, mis implementaciones de arquitectura de software y recursos sobre mi aprendizaje continuo.
 
 
-*Bases de Datos
+### 💻 Stack Tecnológico
 
--MySQL  
+**Backend & Bases de Datos:**
+* PHP (Laravel) | Python (Django)
+* MariaDB | MySQL 
 
--MariaDB
+**Frontend & UI:**
+* JavaScript nativo | React | jQuery
+* HTML/CSS | Vite | Tailwind/Bootstrap (si aplicas alguno)
 
+**Herramientas & Entorno:**
+* Git & GitHub | Docker | Ubuntu (Terminal/SSH)
+* Postman | Figma | Photoshop | Power BI
 
-Otras Herramientas
+### 📫 Conectemos
 
--Power BI 
+Siempre estoy abierto a discutir sobre arquitectura de software, nuevos retos técnicos o colaboraciones:
 
--Git & GitHub 
+* **LinkedIn:**(https://www.linkedin.com/in/jonathan-cantu0)
+* **Email:** cantujonathan16.music@gmail.com
 
--Photoshop
-
--Figma
-
--PostMan
-
--Docker
-
-
-
-
-
-📫 Contacto
-
-Si requieres contactar conmigo de forma mas directa, puedes encontrarme en:
-
-GitHub: @MISESPLAY
-
-LinkedIn: www.linkedin.com/in/jonathan-cantu0
-
-Correo: cantujonathan16.music@gmail.com
-
-<div align="center"> <img src="metaphor-atlus.gif" alt="GIF animado" /> </div>
+<div align="center"> <img src="metaphor-atlus.gif" alt="GIF animado" width="300" /> </div>
