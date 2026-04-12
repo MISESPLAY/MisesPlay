@@ -16,7 +16,9 @@ Aquí comparto el código de mis proyectos, mis implementaciones de arquitectura
 
 **Frontend & UI:**
 * JavaScript nativo | React | jQuery
-* HTML/CSS | Vite | Tailwind/Bootstrap 
+* HTML/CSS | Vite | Tailwind/Bootstrap
+
+
 **Herramientas & Entorno:**
 * Git & GitHub | Docker | Ubuntu (Terminal/SSH)
 * Postman | Figma | Photoshop | Power BI
