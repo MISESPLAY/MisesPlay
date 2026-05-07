@@ -1,7 +1,7 @@
-# Hola, soy Jonathan Cantú 👋
-**Desarrollador Full-Stack | Backend & Sistemas Administrativos**
+# Hola, soy Jonathan Cantú 
+**Desarrollador Full-Stack | Sistemas Administrativos**
 
-Desarrollador enfocado en la creación de sistemas web robustos, optimización de procesos administrativos y diseño de bases de datos eficientes. Me apasiona resolver problemas de lógica de negocio y estructurar código limpio y escalable.
+Desarrollador enfocado en la creación de sistemas web, optimización de procesos administrativos y diseño de bases de datos.
 
 ---
 
@@ -17,21 +17,22 @@ Desarrollador enfocado en la creación de sistemas web robustos, optimización d
 
 **Herramientas & Entorno:**
 - Git & GitHub | Docker | Ubuntu (Terminal/SSH)
-- Postman | Figma | Photoshop | Power BI
+- Postman | Figma | Photoshop | Power BI 
 
 ---
 
 ## 🚀 Proyectos
 
-### 📋 Checador  (En desarrollo)
+### 📋 AppMovil / AsistApp   (En desarrollo)
 Sistema web/móvil de control de asistencia para entornos educativos.
-- **Stack:** Laravel · MySQL · API REST
-- **Repo:** [Ver proyecto](https://github.com/MISESPLAY/nombre-del-repo)
+- **Stack:** Laravel · MySQL · API REST · JAVASCRIPT · Kotlin
+- **Repo:** Aun en Proces
 
 ### 🔧 Extensión Módulo Meetings — SugarCRM
 Extensión personalizada para el módulo de reuniones de SugarCRM 7.15x adaptada a requerimientos empresariales.
 - **Stack:** PHP · JavaScript · SugarCRM 7.15x
-
+- **Repo:** Aun en Proces
+- 
 ---
 
 ## 📊 GitHub Stats
