@@ -23,15 +23,15 @@ Desarrollador enfocado en la creación de sistemas web, optimización de proceso
 
 ## 🚀 Proyectos
 
-### 📋 AppMovil / AsistApp   (En desarrollo)
+### 📋 EducationSignal   (En desarrollo)
 Sistema web/móvil de control de asistencia para entornos educativos.
 - **Stack:** Laravel · MySQL · API REST · JAVASCRIPT · Kotlin
-- **Repo:** Aun en Proces
+- **Repo:** Privado
 
 ### 🔧 Extensión Módulo Meetings — SugarCRM
 Extensión personalizada para el módulo de reuniones de SugarCRM 7.15x adaptada a requerimientos empresariales.
 - **Stack:** PHP · JavaScript · SugarCRM 7.15x
-- **Repo:** Aun en Proces
+- **Repo:** Privado
 - 
 ---
 
