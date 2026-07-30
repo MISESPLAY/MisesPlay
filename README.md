@@ -8,7 +8,7 @@ Desarrollador enfocado en la creación de sistemas web, optimización de proceso
 ## 💻 Stack Tecnológico
 
 **Backend & Bases de Datos:**
-- PHP (Laravel) | Python (Django) | KOTLINK
+- PHP (Laravel) | Python (Django) | KOTLINK | JAVA (SpringBoot) 
 - MySQL | MariaDB
 
 **Frontend & UI:**
