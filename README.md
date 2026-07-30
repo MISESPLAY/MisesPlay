@@ -47,4 +47,4 @@ Extensión personalizada para el módulo de reuniones de SugarCRM 7.15x adaptada
 Siempre abierto a discutir arquitectura de software, nuevos retos técnicos o colaboraciones:
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/jonathan-cantu0)
-- 📧 cantujonathan16.music@gmail.com
+- 📧 jonathan.cantu.dev@gmail.com
